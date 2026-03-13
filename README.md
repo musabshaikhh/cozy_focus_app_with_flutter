@@ -94,4 +94,4 @@ GitHub: https://github.com/musabshaikhh
 
 Instagram: https://www.instagram.com/musab_dev/
 
-Custom UI components
+Custom UI componen
