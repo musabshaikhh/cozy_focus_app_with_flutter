@@ -1,95 +1,75 @@
-🌿 Cozy Focus App
+# 🌿 Cozy Focus App (Flutter UI Only)
 
-A cozy minimalist focus & productivity mobile app UI built with Flutter.
-This project focuses on creating a calming and aesthetic user interface for a focus timer and habit tracking experience.
+A beautifully designed **Cozy Focus App UI** built using **Flutter**, focused on minimalism, calm aesthetics, and productivity.  
+This project showcases a modern user interface for a focus/productivity app — **frontend only (no backend integration)**.
 
-⚠️ Note:
-This repository currently contains frontend UI only. No backend or database integration is implemented yet.
+---
 
-📱 Preview
+## ✨ Features
 
-Cozy Focus is designed to create a relaxing environment for productivity using soft colors, minimal layouts, and smooth UI components.
+- 🎯 Clean and minimal UI design  
+- 🌙 Cozy & calming theme (perfect for focus apps)  
+- ⏱️ Focus session interface (Pomodoro-style concept)  
+- 📱 Fully responsive mobile layout  
+- 🎨 Smooth animations and modern design elements  
+- 🧩 Well-structured Flutter code  
 
-Main concept:
+---
 
-. Minimalist productivity
+## 🚀 Getting Started
 
-. Cozy UI aesthetic
+### Prerequisites
 
-. Calm focus experience
+- Flutter SDK installed  
+- Android Studio / VS Code  
+- Emulator or physical device  
 
-✨ Features
+### Installation
 
-. 🌿 Minimalist and cozy UI design
+```bash
+# Clone the repository
+git clone https://github.com/musabshaikhh/cozy_focus_app_with_flutter.git
 
-. ⏱ Focus timer interface
+# Navigate into the project
+cd cozy_focus_app_with_flutter
 
-. 📝 Task list UI
+# Install dependencies
+flutter pub get
 
-. 🌱 Focus garden progress UI
+# Run the app
+flutter run
+🛠️ Tech Stack
+Flutter
+Dart
+UI/UX focused design (no backend)
+📌 Note
 
-. 📊 Statistics screen layout
+This project is UI only:
 
-. 🎨 Custom color theme
+❌ No authentication
+❌ No database
+❌ No API integration
 
-. 📱 Responsive Flutter layouts
+You can use this as:
 
-. 🧩 Modular widget structure
+UI inspiration 💡
+Starter template 🚀
+Portfolio project 📁
+🎯 Future Improvements
+Add Firebase/Supabase backend
+Implement real Pomodoro timer logic
+Add user login/signup
+Save focus sessions history
+Dark/light theme toggle
+🤝 Contributing
 
-. 🎨 Design Style
-
-The UI is inspired by cozy productivity apps with:
-
-. Soft pastel colors
-
-. Rounded components
-
-. Clean typography
-
-. Calm visual hierarchy
-
-. Minimal distractions
-
-Example color palette:
-
-#Warm Brown
-#Cream
-#Soft Green
-#Beige
-
-
-🛠 Built With
-
-. Flutter
-
-. Dart
-
-
-
-📌 Future Improvements
-
-Planned upgrades:
-
-. 🔐 Authentication
-
-. ☁️ Backend integration
-
-. 📊 Real focus statistics
-
-. 🌱 Persistent habit tracking
-
-. 🔔 Notifications
-
-. 🎧 Ambient sound player
+Contributions are welcome!
+Feel free to fork this repo and improve the UI or add features.
 
 📄 License
 
-This project is open source and available under the MIT License.
+This project is open-source and available under the MIT License.
 
 👨‍💻 Author
 
 Musab Shaikh
-
-GitHub: https://github.com/musabshaikhh
-
-Instagram: https://www.instagram.com/musab_dev/
